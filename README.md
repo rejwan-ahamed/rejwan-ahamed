@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rejwan Ahamed</h1>
 
-<p align="center" margin-bottom="10px"> <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYprnbOfD8qdbA1_mFrEMMdDJDawGbJUhaJgZcMEBACH4wsUrbueMCGWnsCcKdM-tBUDBYH1zgOsLWXY9Xpikewi4MxK0dfc-I-5ZYD_hotsJ2UxXud0OQDTFUU057zNUBnH_vHXmILEbNUC5iAKCEsttb1OoujXQkNxPE5FCGVioOmwyEFEmPN8MV/s16000/streamline-icon-coding@400x400%20(1).PNG" /> </p>
+<p align="center" margin-bottom="10px"> <img width="400px" height="400px" src="https://firebasestorage.googleapis.com/v0/b/profile2-66046.appspot.com/o/streamline-icon-coding%40400x400%20(1).SVG?alt=media&token=f406bd95-78b0-4232-a37d-f880411ebb52" /> </p>
 
 <h3 align="center">I am a full stack developer. Passionate about coding, love to learn new technology and implement it in real life. I would like to share my ideas and experiences in creative ways.</h3>
 
@@ -29,6 +29,7 @@
 <a href="https://instagram.com/rejwan_ahamed85" target="blank"><img align="center" src="https://firebasestorage.googleapis.com/v0/b/profile2-66046.appspot.com/o/instagram.svg?alt=media&token=17cf2818-f634-4c4b-a07a-2a08c55ad398" alt="rejwan_ahamed85" height="30" width="40" /></a>
 <a href="https://dribbble.com/556s6ddfrfr" target="blank"><img align="center" src="https://firebasestorage.googleapis.com/v0/b/profile2-66046.appspot.com/o/dribbble.svg?alt=media&token=37575a31-ad30-4be5-865e-c3d094f4fb29" height="30" width="40" /></a>
 <a href="https://www.behance.net/deadpoolzrx" target="blank"><img align="center" src="https://firebasestorage.googleapis.com/v0/b/profile2-66046.appspot.com/o/behance.svg?alt=media&token=0908dbcd-42ca-4634-8596-6c41e4aaad7a" alt="deadpoolzrx" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/rejwan-ahamed-73baa723b/" target="blank"><img align="center" src="https://firebasestorage.googleapis.com/v0/b/profile2-66046.appspot.com/o/linkedin.svg?alt=media&token=0614638e-c505-4220-8f62-d6d39a063ba4" alt="deadpoolzrx" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
