@@ -70,7 +70,7 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rejwan-ahamed&show_icons=true&locale=en&layout=compact" alt="rejwan-ahamed" /></p>
-
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rejwan-ahamed&show_icons=true&locale=en" alt="rejwan-ahamed" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rejwan-ahamed&" alt="rejwan-ahamed" /></p>
